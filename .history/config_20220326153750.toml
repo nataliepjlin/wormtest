@@ -78,7 +78,7 @@ logo_width = "200px"
 favicon = "images/favicon.jpg"
 # Meta data
 description = "This is meta description"
-author = "Unplastify"
+author = "Un"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # search
